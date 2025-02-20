@@ -6,7 +6,7 @@ Paulo Ricardo Protachevicz
 
 Passionate about bridging theory and real-world applications, I develop AI-driven solutions for scientific and industrial challenges. 
 
-Published 45+ peer-reviewed papers and experienced in high-performance computing, time-series analysis, and deep learning.
+Published +45 peer-reviewed papers and experienced in high-performance computing, time-series analysis, and deep learning.
 
 
 🛠️ Skills & Tools
