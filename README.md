@@ -2,7 +2,11 @@ Paulo Protachevicz
 
 🚀 About Me
 
-Physicist | Data Scientist | AI Researcher with expertise in computational modeling, machine learning, and neuroscience. Passionate about bridging theory and real-world applications, I develop AI-driven solutions for scientific and industrial challenges. Published 44+ peer-reviewed papers and experienced in high-performance computing, time-series analysis, and deep learning.
+ Data Scientist | Data Analyst | Physicist | AI Researcher with expertise in artificial intelligence, machine learning, and deep learning. 
+
+Passionate about bridging theory and real-world applications, I develop AI-driven solutions for scientific and industrial challenges. 
+
+Published 45+ peer-reviewed papers and experienced in high-performance computing, time-series analysis, and deep learning.
 
 🛠️ Skills & Tools
 Languages: Python, SQL, MATLAB, C, C++
