@@ -22,6 +22,7 @@ Scientific Computing: Neural Network Simulations, Signal Processing
 
 🔹 Bachelor's in Physics – UEPG, Brazil | Chaos Theory & Nonlinear Systems
 
+
 🔬 Research & Experience
 
 💡 Postdoctoral Research Fellow – UTFPR (Current)🔍 Epilepsy Prediction Models | Machine Learning | Brain Signal Analysis
@@ -29,6 +30,8 @@ Scientific Computing: Neural Network Simulations, Signal Processing
 💡 Postdoctoral Research Fellow – USP (2020-2024)🔍 Computational Neuroscience | AI for Brain Networks | Data Science
 
 💡 Visiting Scientist – Potsdam Institute (2023-2024)🔍 Neural Synchronization | Probabilistic Models | AI for Health
+
+💡 Honorary Research – University of Aberdeen (2022-2023)🔍 Short-Term Learning | Analytical Models | Numerical Analysis
 
 📚 Publications & Projects
 
