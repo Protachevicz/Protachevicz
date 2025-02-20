@@ -6,20 +6,30 @@ Physicist | Data Scientist | AI Researcher with expertise in computational model
 
 🛠️ Skills & Tools
 Languages: Python, SQL, MATLAB, C, C++
+
 ML & AI: TensorFlow, PyTorch, Scikit-Learn, XGBoost, MLOps
+
 Data Science: Pandas, NumPy, SciPy, Bayesian Inference, Time-Series Analysis
+
 Big Data & Cloud: Apache Spark, GCP, AWS
+
 Scientific Computing: Neural Network Simulations, Signal Processing
 
 🎓 Education
 🔹 Ph.D. in Physics – UEPG, Brazil | Neural Network Dynamics
+
 🔹 Master's in Physics – UEPG, Brazil | Cellular Automata Modeling
+
 🔹 Bachelor's in Physics – UEPG, Brazil | Chaos Theory & Nonlinear Systems
 
 🔬 Research & Experience
+
 💡 Postdoctoral Research Fellow – UTFPR (Current)🔍 Epilepsy Prediction Models | Machine Learning | Brain Signal Analysis
+
 💡 Postdoctoral Research Fellow – USP (2020-2024)🔍 Computational Neuroscience | AI for Brain Networks | Data Science
+
 💡 Visiting Scientist – Potsdam Institute (2023-2024)🔍 Neural Synchronization | Probabilistic Models | AI for Health
+
 📚 Publications & Projects
 
 ✔ AI-Driven Epilepsy Prediction – Deep learning for seizure detection✔ Neural Synchronization with Plasticity – Network science in neuroscience✔ Time-Series Forecasting – Predictive models for finance & health✔ Glucose-Insulin Dynamics – AI models for diabetes control
