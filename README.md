@@ -8,7 +8,9 @@ Passionate about bridging theory and real-world applications, I develop AI-drive
 
 Published 45+ peer-reviewed papers and experienced in high-performance computing, time-series analysis, and deep learning.
 
+
 🛠️ Skills & Tools
+
 Languages: Python, SQL, MATLAB, C, C++
 
 ML & AI: TensorFlow, PyTorch, Scikit-Learn, XGBoost, MLOps
@@ -19,7 +21,9 @@ Big Data & Cloud: Apache Spark, GCP, AWS
 
 Scientific Computing: Neural Network Simulations, Signal Processing
 
+
 🎓 Education
+
 🔹 Ph.D. in Physics – UEPG, Brazil | Neural Network Dynamics
 
 🔹 Master's in Physics – UEPG, Brazil | Cellular Automata Modeling
@@ -37,11 +41,13 @@ Scientific Computing: Neural Network Simulations, Signal Processing
 
 💡 Honorary Research – University of Aberdeen (2022-2023)🔍 Short-Term Learning | Analytical Models | Numerical Analysis
 
+
 📚 Publications & Projects
 
 ✔ AI-Driven Epilepsy Prediction – Deep learning for seizure detection✔ Neural Synchronization with Plasticity – Network science in neuroscience✔ Time-Series Forecasting – Predictive models for finance & health✔ Glucose-Insulin Dynamics – AI models for diabetes control
 
 📢 Let's Connect
+
 
 🔗 LinkedIn https://www.linkedin.com/in/pauloprotachevicz/ 🔗 Google Scholar https://scholar.google.com.br/citations?user=uK3lQi4AAAAJ&hl=pt-BR 🔗 HackerRank https://www.hackerrank.com/profile/protachevicz 🔗 📧 Email: protachevicz@gmail.com
 
