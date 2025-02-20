@@ -34,7 +34,7 @@ Scientific Computing: Neural Network Simulations, Signal Processing
 
 📢 Let's Connect
 
-🔗 LinkedIn https://www.linkedin.com/in/pauloprotachevicz/ 🔗 Google Scholar📧 Email: paulo.protachevicz@example.com
+🔗 LinkedIn https://www.linkedin.com/in/pauloprotachevicz/ 🔗 Google Scholar https://scholar.google.com.br/citations?user=uK3lQi4AAAAJ&hl=pt-BR 🔗 HackerRank https://www.hackerrank.com/profile/protachevicz 🔗 📧 Email: paulo.protachevicz@example.com
 
 💡 Passionate about AI, Neuroscience, and Data Science – Let’s collaborate!
 
