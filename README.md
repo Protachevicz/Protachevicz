@@ -61,7 +61,7 @@ Scientific Computing: Neural Network Simulations, Signal Processing
 
 🔗 HackerRank https://www.hackerrank.com/profile/protachevicz 
 
-🔗 📧 Portifolio Sample: https://protachevicz.github.io/failure_equipament/failure.html
+🔗 📧 Portfolio Sample: https://protachevicz.github.io/failure_equipament/failure.html
 
 🔗 📧 Email: protachevicz@gmail.com
 
