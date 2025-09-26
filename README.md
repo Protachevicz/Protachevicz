@@ -8,7 +8,7 @@ Passionate about bridging theory and real-world applications, I develop AI-drive
 
 Published +45 peer-reviewed papers and experienced in high-performance computing, time-series analysis, and deep learning.
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 🛠️ Skills & Tools
 
@@ -22,7 +22,7 @@ Big Data & Cloud: Apache Spark, GCP, AWS
 
 Scientific Computing: Neural Network Simulations, Signal Processing
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 🎓 Education
 
@@ -32,7 +32,7 @@ Scientific Computing: Neural Network Simulations, Signal Processing
 
 🔹 Bachelor's in Physics – UEPG, Brazil | Chaos Theory & Nonlinear Systems
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 🔬 Research & Experience
 
@@ -51,7 +51,7 @@ Scientific Computing: Neural Network Simulations, Signal Processing
 📚 Publications & Projects
 ✔ AI-Driven Epilepsy Prediction – Deep learning for seizure detection✔ Neural Synchronization with Plasticity – Network science in neuroscience✔ Time-Series Forecasting – Predictive models for finance & health✔ Glucose-Insulin Dynamics – AI models for diabetes control
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 📢 Let's Connect
 
@@ -65,7 +65,7 @@ Scientific Computing: Neural Network Simulations, Signal Processing
 
 🔗 📧 Email: protachevicz@gmail.com
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 💡 Passionate about Research, AI, ML, Neuroscience, and Data Science – Let’s collaborate!
 
