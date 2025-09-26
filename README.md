@@ -1,4 +1,4 @@
-Paulo Ricardo Protachevicz
+Dr Paulo Ricardo Protachevicz 🔗 📧 Email: protachevicz@gmail.com
 
 🚀 About Me
 
@@ -61,13 +61,13 @@ Scientific Computing: Neural Network Simulations, Signal Processing
 
 🔗 HackerRank https://www.hackerrank.com/profile/protachevicz 
 
-🔗 📧 Portfolio Sample: https://protachevicz.github.io/failure_equipament/failure.html
-
-🔗 📧 Email: protachevicz@gmail.com
+🔗 Portfolio Sample: https://protachevicz.github.io/failure_equipament/failure.html
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 💡 Passionate about Research, AI, ML, Neuroscience, and Data Science – Let’s collaborate!
+
+🔗 📧 Email: protachevicz@gmail.com
 
 <!--
 **Protachevicz/Protachevicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
