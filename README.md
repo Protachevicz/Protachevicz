@@ -15,17 +15,21 @@
 
 ## 🚀 About Me
 
-PhD Physicist and AI/Data Science professional with **15+ years turning complex, nonlinear systems into decisions** — from predicting epileptic seizures in the brain to forecasting financial markets and building production-ready AI products.
+PhD Physicist and AI/Data Science professional with **15+ years turning complex, nonlinear systems into decisions**, from predicting epileptic seizures in the brain to forecasting financial markets and building production-ready AI products.
 
-I bridge rigorous scientific method with applied engineering: **50 peer-reviewed publications**, 5 international postdoctoral/visiting positions (USP, UTFPR, University of Aberdeen, Potsdam Institute), and hands-on delivery of ML, LLM/GenAI, and data products end-to-end — from research question to deployed model to stakeholder decision.
+I bridge rigorous scientific method with applied engineering: **50 peer-reviewed publications**, 5 international postdoctoral/visiting positions (USP, UTFPR, University of Aberdeen, Potsdam Institute), and hands-on delivery of ML, LLM/GenAI, and data products end-to-end, from research question to deployed model to stakeholder decision.
 
-Today I combine two worlds that rarely meet: **deep technical execution** (Python/C/C++, deep learning, LLM fine-tuning, multi-agent systems) and **leadership & translation skills** — coordinating research teams, mentoring, writing for non-technical audiences, and connecting AI capability to business, health, and marketing outcomes. Comfortable operating as an individual contributor (AI/ML Engineer) or as a technical lead/project coordinator who can set direction, manage stakeholders, and make data-backed decisions under uncertainty.
+Today I combine two worlds that rarely meet: **deep technical execution** (Python/C/C++, deep learning, LLM fine-tuning, multi-agent systems) and **leadership & translation skills**, coordinating research teams, mentoring, writing for non-technical audiences, and connecting AI capability to business, health, and marketing outcomes. Comfortable operating as an individual contributor (AI/ML Engineer) or as a technical lead/project coordinator who can set direction, manage stakeholders, and make data-backed decisions under uncertainty.
 
 **What I bring:**
-- 🧠 **AI/ML & GenAI Engineering** — deep learning, time-series forecasting, Bayesian inference, LLM fine-tuning (LoRA), multi-agent/multi-LLM orchestration, RAG-style workflows
-- 📊 **Decision Science** — translating noisy, high-dimensional data into clear, actionable recommendations for technical and executive audiences
-- 🧭 **Leadership & Coordination** — project coordination, international research collaboration, mentoring, editorial board service
-- 📈 **Business-adjacent thinking** — applying forecasting, segmentation, and predictive modeling mindsets to marketing analytics, risk, and operations
+- 🧠 **AI/ML & GenAI Engineering**: deep learning, time-series forecasting, Bayesian inference, LLM fine-tuning (LoRA), multi-agent/multi-LLM orchestration, RAG-style workflows, prompt engineering, and evaluation of model outputs for reliability and safety
+- 📊 **Decision Science**: translating noisy, high-dimensional data into clear, actionable recommendations for technical and executive audiences, with rigorous hypothesis testing and uncertainty quantification
+- 🧭 **Leadership & Coordination**: project coordination, international research collaboration across 5 countries, mentoring junior researchers, grant writing, and editorial board service
+- 📈 **Business-adjacent thinking**: applying forecasting, segmentation, and predictive modeling mindsets to marketing analytics, risk, and operations
+- 🤝 **Cross-functional communication**: fluent in translating deep technical findings into language that product, marketing, and executive stakeholders can act on, honed through 15+ invited talks to audiences ranging from physicists to clinicians
+- 🌍 **Global collaboration**: track record of building and sustaining research partnerships across Brazil, the UK, Germany, and the US, adapting communication style and priorities to each institutional culture
+- ⚙️ **End-to-end ownership**: from securing funding and designing the study, to building the model, validating it, and presenting results that drive a decision or a publication
+- 🧩 **Adaptability**: equally comfortable deep in a C/C++ simulation, fine-tuning an LLM in Python, writing a grant proposal, or presenting findings to a non-technical board
 
 ---
 
@@ -100,9 +104,9 @@ Today I combine two worlds that rarely meet: **deep technical execution** (Pytho
 
 ## 🎓 Education
 
-- 🔹 **Ph.D. in Physics** (2016–2020) – UEPG, Brazil | *Firing Patterns in Neuronal Networks* — neural networks, nonlinear dynamics, epileptic seizure prediction, computational modeling
-- 🔹 **M.Sc. in Physics** (2014–2016) – UEPG, Brazil | *Dynamic Range in Neural Networks Modeled by Cellular Automata* — discrete math, linear algebra, ETL
-- 🔹 **B.Sc. in Physics** (2010–2013) – UEPG, Brazil | *Lyapunov Exponent Methods for Chaos Detection* — numerical simulation, complex systems, algorithm development
+- 🔹 **Ph.D. in Physics** (2016-2020), UEPG, Brazil | *Firing Patterns in Neuronal Networks*: neural networks, nonlinear dynamics, epileptic seizure prediction, computational modeling
+- 🔹 **M.Sc. in Physics** (2014-2016), UEPG, Brazil | *Dynamic Range in Neural Networks Modeled by Cellular Automata*: discrete math, linear algebra, ETL
+- 🔹 **B.Sc. in Physics** (2010-2013), UEPG, Brazil | *Lyapunov Exponent Methods for Chaos Detection*: numerical simulation, complex systems, algorithm development
 
 **Recent complementary training:** Applied Machine Learning: Algorithms (LinkedIn Learning, 2025) · Deep Learning: Model Optimization & Tuning, Neural Networks in C++, ML with Scikit-Learn (2024) · ML/AI with Python & Data Science with Python (HarvardX) · Data Science Tools & Intro to Data Science (IBM) · The Complete Python Developer (Udemy) · Machine Learning (Stanford, Prof. Andrew Ng, 2022)
 
@@ -112,16 +116,16 @@ Today I combine two worlds that rarely meet: **deep technical execution** (Pytho
 
 | Period | Role | Institution | Focus |
 |---|---|---|---|
-| 2025–present | **Project Coordinator** — Computational Neuroscience, Data Analysis & AI | UEPG, Brazil | AI/ML for epilepsy prediction, unsupervised learning, Bayesian inference, Hodgkin-Huxley/AdEx simulation |
-| 2025–2026 | Postdoctoral Research Fellow — Electrical Engineering & Industrial Informatics | UTFPR, Brazil | Seizure detection/prevention, signal processing, R/Python/SQL, deep learning, A/B testing |
-| 2020–2024 | Postdoctoral Research Fellow — Applied Physics | USP, Brazil (FAPESP) | Synaptic plasticity, ML, causal inference, forecasting models, Python/R |
-| 2023–2024 | Visiting Scientist | Potsdam Institute for Climate Impact Research, Germany | Probabilistic models, synchronization, model deployment |
-| 2022–2023 | Honorary Research Fellow | University of Aberdeen, UK | Reinforcement learning, PCA, regression modeling, causal inference |
+| 2025-present | **Project Coordinator**, Computational Neuroscience, Data Analysis & AI | UEPG, Brazil | AI/ML for epilepsy prediction, unsupervised learning, Bayesian inference, Hodgkin-Huxley/AdEx simulation |
+| 2025-2026 | Postdoctoral Research Fellow, Electrical Engineering & Industrial Informatics | UTFPR, Brazil | Seizure detection/prevention, signal processing, R/Python/SQL, deep learning, A/B testing |
+| 2020-2024 | Postdoctoral Research Fellow, Applied Physics | USP, Brazil (FAPESP) | Synaptic plasticity, ML, causal inference, forecasting models, Python/R |
+| 2023-2024 | Visiting Scientist | Potsdam Institute for Climate Impact Research, Germany | Probabilistic models, synchronization, model deployment |
+| 2022-2023 | Honorary Research Fellow | University of Aberdeen, UK | Reinforcement learning, PCA, regression modeling, causal inference |
 
 **Leadership & impact highlights:**
 - Coordinating interdisciplinary AI research projects, from proposal to funded execution (CNPq, FAPESP, CAPES grants since 2010)
 - Advisory Committee Member, FAPESP (São Paulo Research Foundation) since 2022
-- Editorial Board member — *Frontiers in Physics*, *Frontiers in Network Physiology* (3 sections), *Brain Sciences* (MDPI)
+- Editorial Board member: *Frontiers in Physics*, *Frontiers in Network Physiology* (3 sections), *Brain Sciences* (MDPI)
 - 60+ peer-review assignments across Chaos, Physical Review E, Scientific Reports, IEEE Transactions, and more
 - Co-organizer of international scientific meetings (Perspectives on Oscillation Control 2019/2024, PratiCoNeuro, CNS*2021)
 - Invited speaker at NIH, University of Chicago, ETH Zurich, Max Planck Institute, UC San Diego, University of Aberdeen, Radboud University
@@ -130,21 +134,21 @@ Today I combine two worlds that rarely meet: **deep technical execution** (Pytho
 
 ## 📚 Publications & Featured Projects
 
-**50 peer-reviewed journal articles** (Physical Review E, Chaos, Neural Networks, Scientific Reports, Frontiers journals, among others) plus 14 invited talks, 14 conference abstracts, and multiple media-covered findings — full record on [Google Scholar](https://scholar.google.com.br/citations?user=uK3lQi4AAAAJ&hl=pt-BR).
+**50 peer-reviewed journal articles** (Physical Review E, Chaos, Neural Networks, Scientific Reports, Frontiers journals, among others) plus 14 invited talks, 14 conference abstracts, and multiple media-covered findings, full record on [Google Scholar](https://scholar.google.com.br/citations?user=uK3lQi4AAAAJ&hl=pt-BR).
 
 **Selected research themes:**
-- ✔ **AI-Driven Epilepsy Prediction** – deep learning & probabilistic models for seizure detection/prevention from brain signals
-- ✔ **Neural Synchronization & Plasticity** – autapses, synaptic plasticity, chimera states, criticality in neuronal networks
-- ✔ **Infectious Disease & Climate Modeling** – ML-based dengue forecasting using climate variables (media-covered)
-- ✔ **Glucose-Insulin Dynamics** – AI models for diabetes control
-- ✔ **Mathematical & Fractional Modeling** – tumor growth, epidemic spread, fractional diffusion systems
+- ✔ **AI-Driven Epilepsy Prediction**: deep learning & probabilistic models for seizure detection/prevention from brain signals
+- ✔ **Neural Synchronization & Plasticity**: autapses, synaptic plasticity, chimera states, criticality in neuronal networks
+- ✔ **Infectious Disease & Climate Modeling**: ML-based dengue forecasting using climate variables (media-covered)
+- ✔ **Glucose-Insulin Dynamics**: AI models for diabetes control
+- ✔ **Mathematical & Fractional Modeling**: tumor growth, epidemic spread, fractional diffusion systems
 
 **Applied engineering projects:**
-- ✔ **LLM Fine-Tuning & Multi-Agent Systems** – LoRA fine-tuning of DeepSeek-R1-Distill-Llama-8B (medical chain-of-thought) with Unsloth; multi-LLM orchestration/automation via OpenRouter
-- ✔ **Financial Time-Series Forecasting** – B3 (Brazilian stock market) simulator
-- ✔ **Industrial Predictive Maintenance** – equipment failure analysis and prediction
-- ✔ **Behavioral & SQL Analytics** – ant interaction modeling with SQL-based data pipelines
-- ✔ **Business Systems Engineering** – Odoo-based dental clinic management system with REST API & authentication
+- ✔ **LLM Fine-Tuning & Multi-Agent Systems**: LoRA fine-tuning of DeepSeek-R1-Distill-Llama-8B (medical chain-of-thought) with Unsloth; multi-LLM orchestration/automation via OpenRouter
+- ✔ **Financial Time-Series Forecasting**: B3 (Brazilian stock market) simulator
+- ✔ **Industrial Predictive Maintenance**: equipment failure analysis and prediction
+- ✔ **Behavioral & SQL Analytics**: ant interaction modeling with SQL-based data pipelines
+- ✔ **Business Systems Engineering**: Odoo-based dental clinic management system with REST API & authentication
 
 ---
 
@@ -152,6 +156,6 @@ Today I combine two worlds that rarely meet: **deep technical execution** (Pytho
 
 🔗 [LinkedIn](https://www.linkedin.com/in/pauloprotachevicz/) &nbsp;·&nbsp; 🔗 [Google Scholar](https://scholar.google.com.br/citations?user=uK3lQi4AAAAJ&hl=pt-BR) &nbsp;·&nbsp; 🔗 [HackerRank](https://www.hackerrank.com/profile/protachevicz) &nbsp;·&nbsp; 🔗 [Portfolio Sample](https://protachevicz.github.io/failure_equipament/failure.html)
 
-💡 Open to **AI/ML Engineering, Data Science, GenAI, and technical leadership roles** — bringing research-grade rigor to real-world product, health, and business problems. Let's collaborate!
+💡 Open to **AI/ML Engineering, Data Science, GenAI, and technical leadership roles**, bringing research-grade rigor to real-world product, health, and business problems. Let's collaborate!
 
 📧 protachevicz@gmail.com
