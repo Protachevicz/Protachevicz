@@ -231,7 +231,6 @@ Undergrad research fellowships (2010-2013) → M.Sc. fellowship (2014-2016) → 
 - 60+ peer-review assignments since 2019 across Chaos, Physical Review E, Scientific Reports, IEEE Transactions on Neural Systems & Rehabilitation Engineering, Journal of Neuroscience Methods, Nonlinear Dynamics, Physical Biology, and more
 - Co-organizer of 4 international scientific meetings/courses: Perspectives on Oscillation Control (2019 and 2024), PratiCoNeuro (Practical Course of Computational Neuroscience Modeling, 2018), and CNS*2021 (30th Annual Computational Neuroscience Meeting)
 - 15 invited talks at NIH, University of Chicago, ETH Zurich, Max Planck Institute for Dynamics and Self-Organization, UC San Diego, University of Aberdeen, Radboud University, University College Cork, and University of São Paulo
-- Supervised research guidance from leading groups: Prof. Jürgen Kurths (Potsdam/Humboldt), Prof. Murilo da Silva Baptista (Aberdeen), Prof. Iberê Luiz Caldas (USP), Prof. Antonio Marcos Batista (UEPG), among others across 5 countries
 
 ---
 
