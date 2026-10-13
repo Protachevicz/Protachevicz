@@ -27,7 +27,7 @@
 
 <div align="center">
 
-**[About](#-about-me) · [Projects](#-featured-projects) · [Skills](#️-skills--tools) · [Education](#-education) · [Experience](#-research--professional-experience) · [Publications](#-publications--featured-work) · [Press](#-press--media-coverage) · [Contact](#-lets-connect)**
+**[About](#-about-me) · [Projects](#-featured-projects) · [Achievements](#-projects--achievements) · [Skills](#️-skills--tools) · [Education](#-education) · [Experience](#-research--professional-experience) · [Publications](#-publications--featured-work) · [Press](#-press--media-coverage) · [Contact](#-lets-connect)**
 
 </div>
 
@@ -69,15 +69,25 @@ Today I combine two worlds that rarely meet: **deep technical execution** (Pytho
 
 ---
 
-## 📊 GitHub Activity
+## 🏆 Projects & Achievements
 
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api/?username=Protachevicz&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Protachevicz&layout=compact&theme=default&hide_border=true" />
-</p>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Protachevicz&theme=default&hide_border=true" />
-</p>
+Every project and publication below shipped a concrete, verifiable outcome, not just effort:
+
+| Project / Publication | Achievement |
+|---|---|
+| **Influence of autapses on synchronization** (*Frontiers in Systems Neuroscience*, 2020) | Picked up by **5 independent news outlets**; became one of the most-cited results in the author's autapse/synchronization line of work |
+| **Climate-informed dengue forecasting** (*EPJ Special Topics*, 2024) | Covered by **2 news outlets**; demonstrated that climate variables measurably improve outbreak forecasting accuracy |
+| **Analytical solution to short-term plasticity** (*Chaos, Solitons & Fractals*, 2024) | Derived a **closed-form analytical solution** to a problem previously solved only numerically, with Prof. Murilo Baptista |
+| **Neuronal silence as a predictive biomarker** (*Scientific Reports*, 2026) | Identified a **novel predictive biomarker and intervention target** for epileptic seizure suppression |
+| **Plastic neural network with transmission delays** (*Chaos, Solitons & Fractals*, 2023) | Demonstrated **equivalence between network function and structure** under transmission delays, a key result for connectivity inference |
+| **Seizure detection & prevention project** (UTFPR/UEPG, 2024-present) | **Leading** (Project Coordinator) a funded initiative building real-time ML models for seizure prediction, aiming at non-invasive clinical devices |
+| **DeepSeek-R1 medical fine-tuning** (LoRA/QLoRA, Unsloth) | Fine-tuned an 8B-parameter reasoning model on medical chain-of-thought data using consumer-grade GPU memory via 4-bit quantization |
+| **Multi-LLM orchestration via OpenRouter** | Built a working multi-agent automation system routing tasks across multiple LLM providers |
+| **FAPESP Advisory Committee** (since 2022) | Entrusted to **evaluate competitive national research grant proposals** for one of Brazil's largest funding agencies |
+| **Editorial Board, 5 journal sections** (since 2022) | Helped **shape editorial direction** and curated 2 special topic issues (Brain Sciences/MDPI, Frontiers in Network Physiology) |
+| **60+ peer reviews since 2019** | Serves as a **trusted referee** for Chaos, Physical Review E, Scientific Reports, IEEE Transactions, and more |
+| **B3 (Brazilian stock market) simulator** | Applied the same statistical forecasting rigor used in neuroscience publications to **financial time-series prediction** |
+| **Industrial equipment failure analysis** | Delivered a **predictive maintenance model** translating sensor/failure data into actionable risk signals |
 
 ---
 
