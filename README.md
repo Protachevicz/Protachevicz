@@ -6,9 +6,9 @@
 
 **Turning complex, high-stakes data into decisions, from predicting epileptic seizures to building production GenAI systems.**
 
-| 📄 50 | 🏛️ 5 | 🌍 5 | 🎤 15 | 📈 60+ | ⏳ 15+ |
+| 📄 50 | 🏛️ 8+ | 🌍 5 | 🎤 15 | 📈 60+ | ⏳ 15+ |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| Peer-Reviewed Publications | Postdoc/Visiting Positions | Countries Worked In | Invited Talks Worldwide | Peer Reviews & Editorial Seats | Years Continuously Funded (CNPq/CAPES/FAPESP) |
+| Peer-Reviewed Publications | Postdoc Offers Accepted Worldwide | Countries Worked In | Invited Talks Worldwide | Peer Reviews & Editorial Seats | Years Continuously Funded (CNPq/CAPES/FAPESP) |
 
 🔎 **Open to:** AI/ML Engineer · GenAI/LLM Engineer · Data Scientist · Applied/Research Scientist · AI Research Lead · Marketing/Decision Analytics
 
@@ -37,7 +37,7 @@
 
 PhD Physicist and AI/Data Science professional with **15+ years turning complex, nonlinear systems into decisions**, from predicting epileptic seizures in the brain to forecasting financial markets and building production-ready AI products.
 
-I bridge rigorous scientific method with applied engineering: **50 peer-reviewed publications**, 5 international postdoctoral/visiting positions (USP, UTFPR, University of Aberdeen, Potsdam Institute), and hands-on delivery of ML, LLM/GenAI, and data products end-to-end, from research question to deployed model to stakeholder decision.
+I bridge rigorous scientific method with applied engineering: **50 peer-reviewed publications**, **accepted into 8+ postdoctoral positions worldwide** (5 taken up so far, at USP, UTFPR, University of Aberdeen, and the Potsdam Institute), and hands-on delivery of ML, LLM/GenAI, and data products end-to-end, from research question to deployed model to stakeholder decision.
 
 Today I combine two worlds that rarely meet: **deep technical execution** (Python/C/C++, deep learning, LLM fine-tuning, multi-agent systems) and **leadership & translation skills**, coordinating research teams, mentoring, writing for non-technical audiences, and connecting AI capability to business, health, and marketing outcomes. Comfortable operating as an individual contributor (AI/ML Engineer) or as a technical lead/project coordinator who can set direction, manage stakeholders, and make data-backed decisions under uncertainty.
 
