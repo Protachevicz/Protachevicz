@@ -1,13 +1,18 @@
+<div align="center">
+
 # Dr. Paulo Ricardo Protachevicz
 
-**AI Engineer · Data Scientist · Computational Neuroscientist · Physicist**
+### AI Engineer · Data Scientist · Computational Neuroscientist · Physicist
+
+**Turning complex, high-stakes data into decisions, from predicting epileptic seizures to building production GenAI systems.**
+
+| 📄 50 | 🏛️ 5 | 🌍 5 | 🎤 15 | 📈 60+ | ⏳ 15+ |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Peer-Reviewed Publications | Postdoc/Visiting Positions | Countries Worked In | Invited Talks Worldwide | Peer Reviews & Editorial Seats | Years Continuously Funded (CNPq/CAPES/FAPESP) |
 
 🔎 **Open to:** AI/ML Engineer · GenAI/LLM Engineer · Data Scientist · Applied/Research Scientist · AI Research Lead · Marketing/Decision Analytics
 
 📍 Brazil (open to remote/hybrid/relocation) &nbsp;|&nbsp; 📧 protachevicz@gmail.com &nbsp;|&nbsp; 📞 +55 42 999409383
-
-<!-- Keywords for search: Artificial Intelligence, Machine Learning, Deep Learning, Generative AI, GenAI, Large Language Models, LLM, LLM Fine-Tuning, LoRA, QLoRA, PEFT, RAG, Multi-Agent Systems, AI Agents, Prompt Engineering, NLP, Data Science, Data Analyst, Data Analytics, Predictive Analytics, Marketing Analytics, Time Series Forecasting, Bayesian Inference, Statistics, A/B Testing, Computer Vision, Computational Neuroscience, Research Scientist, AI Engineer, Python, PyTorch, TensorFlow, Hugging Face, SQL, MLOps, Recommender Systems, Decision Science, Project Coordination, Technical Leadership -->
-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pauloprotachevicz/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com.br/citations?user=uK3lQi4AAAAJ&hl=pt-BR)
@@ -15,6 +20,10 @@
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/protachevicz)
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=flat&logo=github&logoColor=white)](https://protachevicz.github.io/failure_equipament/failure.html)
+
+</div>
+
+<!-- Keywords for search: Artificial Intelligence, Machine Learning, Deep Learning, Generative AI, GenAI, Large Language Models, LLM, LLM Fine-Tuning, LoRA, QLoRA, PEFT, RAG, Multi-Agent Systems, AI Agents, Prompt Engineering, NLP, Data Science, Data Analyst, Data Analytics, Predictive Analytics, Marketing Analytics, Time Series Forecasting, Bayesian Inference, Statistics, A/B Testing, Computer Vision, Computational Neuroscience, Research Scientist, AI Engineer, Python, PyTorch, TensorFlow, Hugging Face, SQL, MLOps, Recommender Systems, Decision Science, Project Coordination, Technical Leadership -->
 
 ---
 
@@ -36,6 +45,33 @@ Today I combine two worlds that rarely meet: **deep technical execution** (Pytho
 - ⚙️ **End-to-end ownership**: from writing the grant proposal and designing the study, to building the model (Python/C/C++), validating it statistically, and presenting results that drive a publication, a policy recommendation, or a product decision
 - 📈 **Business-adjacent thinking**: the same forecasting, segmentation, and hypothesis-testing toolkit behind the publication record applied to applied/commercial problems, including financial time-series simulation (B3 market), industrial predictive maintenance, and A/B testing experimentation, directly transferable to marketing analytics, risk, and operations decision-making
 - 🧩 **Adaptability**: equally comfortable deep in a C/C++ neuronal simulation, fine-tuning an LLM in Python, writing a funding proposal in English or Portuguese, or presenting findings to a non-technical board; demonstrated across 6 role changes and 5 countries in the last 6 years
+
+---
+
+## 📌 Featured Projects
+
+<p align="center">
+<a href="https://github.com/Protachevicz/deepseek-r1-medical-finetune"><img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=Protachevicz&repo=deepseek-r1-medical-finetune&theme=default" /></a>
+<a href="https://github.com/Protachevicz/Multi-LLM-via-OpenRouter"><img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=Protachevicz&repo=Multi-LLM-via-OpenRouter&theme=default" /></a>
+</p>
+<p align="center">
+<a href="https://github.com/Protachevicz/Python_experiments"><img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=Protachevicz&repo=Python_experiments&theme=default" /></a>
+<a href="https://github.com/Protachevicz/failure_equipament"><img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=Protachevicz&repo=failure_equipament&theme=default" /></a>
+</p>
+
+*(Card previews work once the repos above are pinned on the profile, see Settings → "Customize your pins")*
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api/?username=Protachevicz&show_icons=true&theme=default&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Protachevicz&layout=compact&theme=default&hide_border=true" />
+</p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Protachevicz&theme=default&hide_border=true" />
+</p>
 
 ---
 
@@ -61,7 +97,7 @@ Today I combine two worlds that rarely meet: **deep technical execution** (Pytho
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-grey?style=flat)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-grey?style=flat)
 ![RAG](https://img.shields.io/badge/RAG%20Pipelines-grey?style=flat)
-![Claude / GPT APIs](https://img.shields.io/badge/Claude%20%2F%20GPT%20APIs-grey?style=flat)
+![LLM APIs](https://img.shields.io/badge/LLM%20APIs-grey?style=flat)
 
 **Machine Learning & Deep Learning**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
