@@ -25,6 +25,12 @@
 
 <!-- Keywords for search: Artificial Intelligence, Machine Learning, Deep Learning, Generative AI, GenAI, Large Language Models, LLM, LLM Fine-Tuning, LoRA, QLoRA, PEFT, RAG, Multi-Agent Systems, AI Agents, Prompt Engineering, NLP, Data Science, Data Analyst, Data Analytics, Predictive Analytics, Marketing Analytics, Time Series Forecasting, Bayesian Inference, Statistics, A/B Testing, Computer Vision, Computational Neuroscience, Research Scientist, AI Engineer, Python, PyTorch, TensorFlow, Hugging Face, SQL, MLOps, Recommender Systems, Decision Science, Project Coordination, Technical Leadership -->
 
+<div align="center">
+
+**[About](#-about-me) · [Projects](#-featured-projects) · [Skills](#️-skills--tools) · [Education](#-education) · [Experience](#-research--professional-experience) · [Publications](#-publications--featured-work) · [Press](#-press--media-coverage) · [Contact](#-lets-connect)**
+
+</div>
+
 ---
 
 ## 🚀 About Me
@@ -164,7 +170,10 @@ Today I combine two worlds that rarely meet: **deep technical execution** (Pytho
 | 2023-2024 | Visiting Scientist | Potsdam Institute for Climate Impact Research, Germany | Probabilistic models, synchronization, data wrangling, statistical modeling, model deployment |
 | 2022-2023 | Honorary Research Fellow | University of Aberdeen, UK | Short-term plasticity, reinforcement learning, PCA, linear/logistic regression, causal inference, C/Python development |
 
-**Research project portfolio** (concurrent and historical, each with named academic collaborators):
+<details>
+<summary><strong>🗂️ Research project portfolio</strong> (8 concurrent and historical projects, click to expand)</summary>
+<br>
+
 - 🧠 **Epileptic Seizure Detection, Prediction & Prevention** (2024-present, with Prof. Paulo José Abatti): computational neural network models of healthy vs. pathological brain activity, targeted neuronal stimulation for seizure prevention, working toward non-invasive clinical devices
 - 🔁 **Long-Term Synaptic Plasticity & Synchronization** (2023-present, with Prof. Jürgen Kurths): modeling how random vs. periodic input currents shape synchronous/asynchronous firing in neuronal networks
 - ⚡ **Short-Term Synaptic Plasticity** (2022-present, with Prof. Murilo da Silva Baptista): how STP regimes relate to normal/abnormal synchronization and stimulus encoding
@@ -174,7 +183,18 @@ Today I combine two worlds that rarely meet: **deep technical execution** (Pytho
 - 📊 **Dynamic Range in Cellular-Automaton Neural Networks** (2014-2016): topology and connectivity intensities that maximize a network's stimulus-encoding range
 - 🔬 **Single-Neuron Hodgkin-Huxley Dynamics** (2012-2013, with Prof. A. M. Batista): C-code simulation of action-potential generation under varying current intensities
 
-**Continuous competitive funding, 2010-2029** (CNPq, CAPES, FAPESP): undergrad research fellowships (2010-2013) → M.Sc. fellowship (2014-2016) → Ph.D. fellowship (2016-2020) → postdoc fellowship at USP (2020-2024) → honorary fellowship at Aberdeen (2022-2023) → visiting scientist fellowship at Potsdam (2023-2024) → postdoc fellowship at UTFPR (2024-2025) → current research funding fellowship at UEPG (2025-2029), **15 consecutive years funded without a gap**.
+</details>
+
+<details>
+<summary><strong>💰 Continuous competitive funding, 2010-2029</strong> (CNPq, CAPES, FAPESP, 15 consecutive years, click to expand)</summary>
+<br>
+
+Undergrad research fellowships (2010-2013) → M.Sc. fellowship (2014-2016) → Ph.D. fellowship (2016-2020) → postdoc fellowship at USP (2020-2024) → honorary fellowship at Aberdeen (2022-2023) → visiting scientist fellowship at Potsdam (2023-2024) → postdoc fellowship at UTFPR (2024-2025) → current research funding fellowship at UEPG (2025-2029).
+
+**15 consecutive years funded without a gap**, a track record of continuously winning competitive, peer-reviewed research funding.
+
+</details>
+<br>
 
 **Leadership, governance & dissemination:**
 - Advisory Committee Member, FAPESP (São Paulo Research Foundation), since 2022, evaluating research proposals
@@ -187,7 +207,7 @@ Today I combine two worlds that rarely meet: **deep technical execution** (Pytho
 
 ---
 
-## 📚 Publications & Featured Projects
+## 📚 Publications & Featured Work
 
 **50 peer-reviewed journal articles** (Physical Review E, Chaos, Neural Networks, Scientific Reports, Frontiers journals, among others) plus 14 invited talks, 14 conference abstracts, and multiple media-covered findings, full record on [Google Scholar](https://scholar.google.com.br/citations?user=uK3lQi4AAAAJ&hl=pt-BR).
 
@@ -207,10 +227,25 @@ Today I combine two worlds that rarely meet: **deep technical execution** (Pytho
 
 ---
 
+## 📰 Press & Media Coverage
+
+Research covered by science and general media outlets, evidence that the work translates beyond academia:
+
+- 🧠 **Autapses & neuronal synchronization** (*Frontiers in Systems Neuroscience*, 2020): featured by **5 independent news outlets**
+- 🦟 **Climate-informed dengue forecasting** (*EPJ Special Topics*, 2024): featured by **2 news outlets**, demonstrating real-world public-health relevance of the forecasting methodology
+
+---
+
+<div align="center">
+
 ## 📢 Let's Connect
 
 🔗 [LinkedIn](https://www.linkedin.com/in/pauloprotachevicz/) &nbsp;·&nbsp; 🔗 [Google Scholar](https://scholar.google.com.br/citations?user=uK3lQi4AAAAJ&hl=pt-BR) &nbsp;·&nbsp; 🔗 [HackerRank](https://www.hackerrank.com/profile/protachevicz) &nbsp;·&nbsp; 🔗 [Portfolio Sample](https://protachevicz.github.io/failure_equipament/failure.html)
 
-💡 Open to **AI/ML Engineering, Data Science, GenAI, and technical leadership roles**, bringing research-grade rigor to real-world product, health, and business problems. Let's collaborate!
+**💡 Open to AI/ML Engineering, Data Science, GenAI, and technical leadership roles, bringing research-grade rigor to real-world product, health, and business problems.**
 
-📧 protachevicz@gmail.com
+### Let's build something that matters.
+
+📧 **protachevicz@gmail.com**
+
+</div>
