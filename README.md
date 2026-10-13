@@ -56,38 +56,56 @@ Today I combine two worlds that rarely meet: **deep technical execution** (Pytho
 
 ## 📌 Featured Projects
 
-<p align="center">
-<a href="https://github.com/Protachevicz/deepseek-r1-medical-finetune"><img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=Protachevicz&repo=deepseek-r1-medical-finetune&theme=default" /></a>
-<a href="https://github.com/Protachevicz/Multi-LLM-via-OpenRouter"><img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=Protachevicz&repo=Multi-LLM-via-OpenRouter&theme=default" /></a>
-</p>
-<p align="center">
-<a href="https://github.com/Protachevicz/Python_experiments"><img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=Protachevicz&repo=Python_experiments&theme=default" /></a>
-<a href="https://github.com/Protachevicz/failure_equipament"><img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=Protachevicz&repo=failure_equipament&theme=default" /></a>
-</p>
+A selection across GenAI/AI engineering, applied data science, and published computational-neuroscience research code. Every repository is linked, not just named.
 
-*(Card previews work once the repos above are pinned on the profile, see Settings → "Customize your pins")*
+### 🤖 GenAI, LLMs & AI Agents
+- **[Python_experiments](https://github.com/Protachevicz/Python_experiments)**: a curated portfolio of 8 sub-projects: a ReAct tool-calling agent, a RAG pipeline with ChromaDB, a from-scratch MCP server (TypeScript), A/B testing simulations, teacher-student distillation, and more, each with its own README
+- **[deepseek-r1-medical-finetune](https://github.com/Protachevicz/deepseek-r1-medical-finetune)**: LoRA fine-tuning of DeepSeek-R1-Distill-Llama-8B on a medical chain-of-thought dataset using Unsloth
+- **[Multi-LLM-via-OpenRouter](https://github.com/Protachevicz/Multi-LLM-via-OpenRouter)**: multi-LLM orchestration and automation via OpenRouter
+- **[AI_ML_DP](https://github.com/Protachevicz/AI_ML_DP)**: applied AI/ML/deep learning experiments
+
+### 📊 Data Science & Applied Analytics
+- **[failure_equipament](https://github.com/Protachevicz/failure_equipament)**: industrial equipment failure analysis and predictive maintenance
+- **[ant-interactions-sql](https://github.com/Protachevicz/ant-interactions-sql)**: behavioral data analysis with SQL-based pipelines
+- **[Finance_Project_Analysis](https://github.com/Protachevicz/Finance_Project_Analysis)**: financial data analysis and modeling
+
+### 🧠 Published Computational Neuroscience Research Code
+Each repository below is the companion simulation code for a peer-reviewed paper:
+- **[Chimera-and-Plasticity](https://github.com/Protachevicz/Chimera-and-Plasticity)**: *AIP Advances*, 2022: chimera states induced by STDP
+- **[Synaptic_potentiation_dependence](https://github.com/Protachevicz/Synaptic_potentiation_dependence)**: *EPJ Special Topics*: synaptic potentiation dependence on spike variability
+- **[STDP_Delay](https://github.com/Protachevicz/STDP_Delay)**: *Chaos, Solitons & Fractals*, 2023: plastic networks with transmission delays
+- **[Autapses_in_a_neuronal_area](https://github.com/Protachevicz/Autapses_in_a_neuronal_area)**: *Frontiers in Systems Neuroscience*, 2020: influence of autapses on synchronization (media-covered)
+- **[Brain_Areas_Interaction](https://github.com/Protachevicz/Brain_Areas_Interaction)**: phase, anti-phase, and shift-phase synchronization between brain areas
+- **[Short-term-Plasticity](https://github.com/Protachevicz/Short-term-Plasticity)**: analytical and numerical approaches to single-synapse short-term plasticity
+
+### 🌐 Portfolio
+- **[protachevicz.github.io](https://protachevicz.github.io)**: personal academic portfolio site
+
+*See [all repositories](https://github.com/Protachevicz?tab=repositories) for the complete list, this README highlights a curated selection.*
 
 ---
 
 ## 🏆 Projects & Achievements
 
-Every project and publication below shipped a concrete, verifiable outcome, not just effort:
+Every project and publication below shipped a concrete, verifiable outcome, not just effort. This is a selected sample, the full list of publications is on [Google Scholar](https://scholar.google.com.br/citations?user=uK3lQi4AAAAJ&hl=pt-BR) and the full list of code is on [GitHub](https://github.com/Protachevicz?tab=repositories).
 
-| Project / Publication | Achievement |
-|---|---|
-| **Influence of autapses on synchronization** (*Frontiers in Systems Neuroscience*, 2020) | Picked up by **5 independent news outlets**; became one of the most-cited results in the author's autapse/synchronization line of work |
-| **Climate-informed dengue forecasting** (*EPJ Special Topics*, 2024) | Covered by **2 news outlets**; demonstrated that climate variables measurably improve outbreak forecasting accuracy |
-| **Analytical solution to short-term plasticity** (*Chaos, Solitons & Fractals*, 2024) | Derived a **closed-form analytical solution** to a problem previously solved only numerically, with Prof. Murilo Baptista |
-| **Neuronal silence as a predictive biomarker** (*Scientific Reports*, 2026) | Identified a **novel predictive biomarker and intervention target** for epileptic seizure suppression |
-| **Plastic neural network with transmission delays** (*Chaos, Solitons & Fractals*, 2023) | Demonstrated **equivalence between network function and structure** under transmission delays, a key result for connectivity inference |
-| **Seizure detection & prevention project** (UTFPR/UEPG, 2024-present) | **Leading** (Project Coordinator) a funded initiative building real-time ML models for seizure prediction, aiming at non-invasive clinical devices |
-| **DeepSeek-R1 medical fine-tuning** (LoRA/QLoRA, Unsloth) | Fine-tuned an 8B-parameter reasoning model on medical chain-of-thought data using consumer-grade GPU memory via 4-bit quantization |
-| **Multi-LLM orchestration via OpenRouter** | Built a working multi-agent automation system routing tasks across multiple LLM providers |
-| **FAPESP Advisory Committee** (since 2022) | Entrusted to **evaluate competitive national research grant proposals** for one of Brazil's largest funding agencies |
-| **Editorial Board, 5 journal sections** (since 2022) | Helped **shape editorial direction** and curated 2 special topic issues (Brain Sciences/MDPI, Frontiers in Network Physiology) |
-| **60+ peer reviews since 2019** | Serves as a **trusted referee** for Chaos, Physical Review E, Scientific Reports, IEEE Transactions, and more |
-| **B3 (Brazilian stock market) simulator** | Applied the same statistical forecasting rigor used in neuroscience publications to **financial time-series prediction** |
-| **Industrial equipment failure analysis** | Delivered a **predictive maintenance model** translating sensor/failure data into actionable risk signals |
+| Project / Publication | Achievement | Link |
+|---|---|---|
+| **Influence of autapses on synchronization** (*Frontiers in Systems Neuroscience*, 2020) | Picked up by **5 independent news outlets**; became one of the author's most-cited results | [Code](https://github.com/Protachevicz/Autapses_in_a_neuronal_area) |
+| **Climate-informed dengue forecasting** (*EPJ Special Topics*, 2024) | Covered by **2 news outlets**; demonstrated that climate variables measurably improve outbreak forecasting accuracy | [Scholar](https://scholar.google.com.br/citations?user=uK3lQi4AAAAJ&hl=pt-BR) |
+| **Analytical solution to short-term plasticity** (*Chaos, Solitons & Fractals*, 2024) | Derived a **closed-form analytical solution** to a problem previously solved only numerically, with Prof. Murilo Baptista | [Code](https://github.com/Protachevicz/Python_experiments/tree/main/short-term-plasticity-analytical-solution) |
+| **Unpredictability in seasonal infectious disease spread** (*Chaos, Solitons & Fractals*, 2023) | Showed epidemic unpredictability stems from **bistable, chaos-preferring dynamics**, not just parameter uncertainty | [Code](https://github.com/Protachevicz/Python_experiments/tree/main/seasonal-infectious-disease-chaos) |
+| **Chimera states induced by STDP** (*AIP Advances*, 2022) | Showed plasticity **enlarges the parameter range and lifetime** of chimera states in neuronal networks | [Code](https://github.com/Protachevicz/Chimera-and-Plasticity) |
+| **Neuronal silence as a predictive biomarker** (*Scientific Reports*, 2026) | Identified a **novel predictive biomarker and intervention target** for epileptic seizure suppression | [Scholar](https://scholar.google.com.br/citations?user=uK3lQi4AAAAJ&hl=pt-BR) |
+| **Plastic neural network with transmission delays** (*Chaos, Solitons & Fractals*, 2023) | Demonstrated **equivalence between network function and structure** under transmission delays | [Code](https://github.com/Protachevicz/STDP_Delay) |
+| **Intermittency in a temporal lobe epilepsy model** (*Epilepsy & Behavior*, 2023) | Showed optogenetic control of synchronized bursts is effective **only** when targeting IAIN neurons | [Code](https://github.com/Protachevicz/Python_experiments/tree/main/temporal-lobe-epilepsy-intermittency) |
+| **Seizure detection & prevention project** (UTFPR/UEPG, 2024-present) | **Leading** (Project Coordinator) a funded initiative building real-time ML models for seizure prediction, aiming at non-invasive clinical devices | *(internal)* |
+| **DeepSeek-R1 medical fine-tuning** (LoRA/QLoRA, Unsloth) | Fine-tuned an 8B-parameter reasoning model on medical chain-of-thought data using consumer-grade GPU memory via 4-bit quantization | [Code](https://github.com/Protachevicz/deepseek-r1-medical-finetune) |
+| **Multi-LLM orchestration via OpenRouter** | Built a working multi-agent automation system routing tasks across multiple LLM providers | [Code](https://github.com/Protachevicz/Multi-LLM-via-OpenRouter) |
+| **FAPESP Advisory Committee** (since 2022) | Entrusted to **evaluate competitive national research grant proposals** for one of Brazil's largest funding agencies | *(internal)* |
+| **Editorial Board, 5 journal sections** (since 2022) | Helped **shape editorial direction** and curated 2 special topic issues (Brain Sciences/MDPI, Frontiers in Network Physiology) | *(internal)* |
+| **60+ peer reviews since 2019** | Serves as a **trusted referee** for Chaos, Physical Review E, Scientific Reports, IEEE Transactions, and more | *(internal)* |
+| **Industrial equipment failure analysis** | Delivered a **predictive maintenance model** translating sensor/failure data into actionable risk signals | [Code](https://github.com/Protachevicz/failure_equipament) |
 
 ---
 
