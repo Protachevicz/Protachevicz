@@ -15,7 +15,7 @@
 
 📍 Brazil (open to remote/hybrid/relocation) &nbsp;|&nbsp; 📧 protachevicz@gmail.com &nbsp;|&nbsp; 📞 +55 42 999409383
 
-[![ProtaAI](https://img.shields.io/badge/ProtaAI-6C5CE7?style=flat-square&logo=sparkfun&logoColor=white)](https://protaai.com.br)
+[![ProtaAI](https://img.shields.io/badge/ProtaAI-6C5CE7?style=flat-square)](https://protaai.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pauloprotachevicz/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com.br/citations?user=uK3lQi4AAAAJ&hl=pt-BR)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/)
@@ -45,7 +45,7 @@ Today I combine two worlds that rarely meet: **deep technical execution** (Pytho
 
 **What I bring (with receipts):**
 - 🧠 **AI/ML & GenAI Engineering**: deep learning, time-series forecasting, Bayesian inference, LLM fine-tuning (LoRA/QLoRA on DeepSeek-R1), multi-agent/multi-LLM orchestration (OpenRouter), RAG-style workflows, prompt engineering, and evaluation of model outputs for reliability and safety, applied in production-style projects published on [GitHub](https://github.com/Protachevicz?tab=repositories), not just coursework
-- 📊 **Decision Science**: 50 peer-reviewed publications in journals such as *Physical Review E*, *Chaos*, *Neural Networks*, and *Scientific Reports* show a sustained record of turning noisy, high-dimensional data into statistically rigorous, defensible conclusions, several picked up by science media (e.g. dengue forecasting with climate variables, autapse synchronization covered by 5 outlets)
+- 📊 **Decision Science**: a publication record spanning *Physical Review E*, *Chaos*, *Neural Networks*, and *Scientific Reports* shows a sustained ability to turn noisy, high-dimensional data into statistically rigorous, defensible conclusions, several results picked up by science media (e.g. dengue forecasting with climate variables, autapse synchronization covered by 5 outlets)
 - 🧭 **Leadership & Coordination**: currently **Project Coordinator** for an AI/epilepsy-prediction initiative at UEPG; continuously funded by CNPq, CAPES, and FAPESP since **2010** (undergrad fellowship through a 2025-2029 research grant), a 15-year uninterrupted track record of winning and executing on competitive funding
 - 🧑‍🏫 **Mentoring & Governance**: **Advisory Committee Member at FAPESP** (São Paulo Research Foundation) since 2022, evaluating research proposals; **Editorial Board member** of 5 journal sections (*Frontiers in Physics*, 3 sections of *Frontiers in Network Physiology*, *Brain Sciences*/MDPI); **60+ peer-review assignments** since 2019 across Chaos, Physical Review E, IEEE Transactions, Scientific Reports, and others
 - 🎤 **Cross-functional & cross-cultural communication**: **15 invited talks** at institutions including NIH, University of Chicago, ETH Zurich, Max Planck Institute, UC San Diego, University of Aberdeen, and Radboud University, translating technical findings for audiences ranging from physicists to clinicians and funding bodies; co-organizer of 4 international scientific meetings (Perspectives on Oscillation Control 2019/2024, PratiCoNeuro, CNS*2021)
