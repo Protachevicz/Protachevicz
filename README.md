@@ -3,6 +3,7 @@
 # Dr. Paulo Ricardo Protachevicz
 
 ### AI Engineer · Data Scientist · Computational Neuroscientist · Physicist
+### Founder, [ProtaAI](https://protaai.com.br)
 
 **Turning complex, high-stakes data into decisions, from predicting epileptic seizures to building production GenAI systems.**
 
@@ -14,6 +15,7 @@
 
 📍 Brazil (open to remote/hybrid/relocation) &nbsp;|&nbsp; 📧 protachevicz@gmail.com &nbsp;|&nbsp; 📞 +55 42 999409383
 
+[![ProtaAI](https://img.shields.io/badge/ProtaAI-000000?style=flat&logo=google-chrome&logoColor=white)](https://protaai.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pauloprotachevicz/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com.br/citations?user=uK3lQi4AAAAJ&hl=pt-BR)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/)
@@ -192,6 +194,7 @@ Every project and publication below shipped a concrete, verifiable outcome, not 
 
 | Period | Role | Institution | Focus |
 |---|---|---|---|
+| 2025-present | **Founder** | [ProtaAI](https://protaai.com.br) | AI/GenAI consulting and product development |
 | 2025-present | **Project Coordinator**, Computational Neuroscience, Data Analysis & AI | UEPG, Brazil | AI/ML for epilepsy prediction, unsupervised learning, Bayesian inference, Hodgkin-Huxley/AdEx simulation, neuronal avalanches, Kuramoto order parameter |
 | 2025-2026 | Postdoctoral Research Fellow, Electrical Engineering & Industrial Informatics | UTFPR, Brazil | Seizure detection/prevention, signal processing, R/Python/SQL, deep learning, A/B testing, optimization, Big Data |
 | 2020-2024 | Postdoctoral Research Fellow, Applied Physics | USP, Brazil (FAPESP) | Synaptic plasticity, ML, causal inference, forecasting models, k-nearest clustering, data mining, Python/R |
