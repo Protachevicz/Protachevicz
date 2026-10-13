@@ -158,19 +158,32 @@ Today I combine two worlds that rarely meet: **deep technical execution** (Pytho
 
 | Period | Role | Institution | Focus |
 |---|---|---|---|
-| 2025-present | **Project Coordinator**, Computational Neuroscience, Data Analysis & AI | UEPG, Brazil | AI/ML for epilepsy prediction, unsupervised learning, Bayesian inference, Hodgkin-Huxley/AdEx simulation |
-| 2025-2026 | Postdoctoral Research Fellow, Electrical Engineering & Industrial Informatics | UTFPR, Brazil | Seizure detection/prevention, signal processing, R/Python/SQL, deep learning, A/B testing |
-| 2020-2024 | Postdoctoral Research Fellow, Applied Physics | USP, Brazil (FAPESP) | Synaptic plasticity, ML, causal inference, forecasting models, Python/R |
-| 2023-2024 | Visiting Scientist | Potsdam Institute for Climate Impact Research, Germany | Probabilistic models, synchronization, model deployment |
-| 2022-2023 | Honorary Research Fellow | University of Aberdeen, UK | Reinforcement learning, PCA, regression modeling, causal inference |
+| 2025-present | **Project Coordinator**, Computational Neuroscience, Data Analysis & AI | UEPG, Brazil | AI/ML for epilepsy prediction, unsupervised learning, Bayesian inference, Hodgkin-Huxley/AdEx simulation, neuronal avalanches, Kuramoto order parameter |
+| 2025-2026 | Postdoctoral Research Fellow, Electrical Engineering & Industrial Informatics | UTFPR, Brazil | Seizure detection/prevention, signal processing, R/Python/SQL, deep learning, A/B testing, optimization, Big Data |
+| 2020-2024 | Postdoctoral Research Fellow, Applied Physics | USP, Brazil (FAPESP) | Synaptic plasticity, ML, causal inference, forecasting models, k-nearest clustering, data mining, Python/R |
+| 2023-2024 | Visiting Scientist | Potsdam Institute for Climate Impact Research, Germany | Probabilistic models, synchronization, data wrangling, statistical modeling, model deployment |
+| 2022-2023 | Honorary Research Fellow | University of Aberdeen, UK | Short-term plasticity, reinforcement learning, PCA, linear/logistic regression, causal inference, C/Python development |
 
-**Leadership & impact highlights:**
-- Coordinating interdisciplinary AI research projects, from proposal to funded execution (CNPq, FAPESP, CAPES grants since 2010)
-- Advisory Committee Member, FAPESP (São Paulo Research Foundation) since 2022
-- Editorial Board member: *Frontiers in Physics*, *Frontiers in Network Physiology* (3 sections), *Brain Sciences* (MDPI)
-- 60+ peer-review assignments across Chaos, Physical Review E, Scientific Reports, IEEE Transactions, and more
-- Co-organizer of international scientific meetings (Perspectives on Oscillation Control 2019/2024, PratiCoNeuro, CNS*2021)
-- Invited speaker at NIH, University of Chicago, ETH Zurich, Max Planck Institute, UC San Diego, University of Aberdeen, Radboud University
+**Research project portfolio** (concurrent and historical, each with named academic collaborators):
+- 🧠 **Epileptic Seizure Detection, Prediction & Prevention** (2024-present, with Prof. Paulo José Abatti): computational neural network models of healthy vs. pathological brain activity, targeted neuronal stimulation for seizure prevention, working toward non-invasive clinical devices
+- 🔁 **Long-Term Synaptic Plasticity & Synchronization** (2023-present, with Prof. Jürgen Kurths): modeling how random vs. periodic input currents shape synchronous/asynchronous firing in neuronal networks
+- ⚡ **Short-Term Synaptic Plasticity** (2022-present, with Prof. Murilo da Silva Baptista): how STP regimes relate to normal/abnormal synchronization and stimulus encoding
+- 🔗 **Synaptic Plasticity in Neuronal Networks** (2020-present, with Prof. Iberê Luiz Caldas): long- and short-term plasticity effects on synchronization, linked to Parkinson's and epilepsy
+- 🌐 **Synchronous Behaviour in Stochastic Neuronal Networks** (2019-present, with Prof. Kelly C. Iarosz and Prof. Chris Antonopoulos): weak synchronization in heterogeneous, clustered networks modeling the cerebral cortex
+- 🧩 **Coupled System Dynamics Analysis** (2018-present): cellular automata, coupled maps, and differential-equation models of neural synchronization and its link to brain disorders
+- 📊 **Dynamic Range in Cellular-Automaton Neural Networks** (2014-2016): topology and connectivity intensities that maximize a network's stimulus-encoding range
+- 🔬 **Single-Neuron Hodgkin-Huxley Dynamics** (2012-2013, with Prof. A. M. Batista): C-code simulation of action-potential generation under varying current intensities
+
+**Continuous competitive funding, 2010-2029** (CNPq, CAPES, FAPESP): undergrad research fellowships (2010-2013) → M.Sc. fellowship (2014-2016) → Ph.D. fellowship (2016-2020) → postdoc fellowship at USP (2020-2024) → honorary fellowship at Aberdeen (2022-2023) → visiting scientist fellowship at Potsdam (2023-2024) → postdoc fellowship at UTFPR (2024-2025) → current research funding fellowship at UEPG (2025-2029), **15 consecutive years funded without a gap**.
+
+**Leadership, governance & dissemination:**
+- Advisory Committee Member, FAPESP (São Paulo Research Foundation), since 2022, evaluating research proposals
+- Editorial Board member: *Frontiers in Physics*, 3 sections of *Frontiers in Network Physiology*, *Brain Sciences* (MDPI), since 2022-2023
+- Proposed and curated 2 journal topic issues: *Recent Advances in Neuroinformatics* (Brain Sciences/MDPI) and *Chaotic Firing in the Brain and Their Effects on Collective Brain Behavior* (Frontiers in Network Physiology)
+- 60+ peer-review assignments since 2019 across Chaos, Physical Review E, Scientific Reports, IEEE Transactions on Neural Systems & Rehabilitation Engineering, Journal of Neuroscience Methods, Nonlinear Dynamics, Physical Biology, and more
+- Co-organizer of 4 international scientific meetings/courses: Perspectives on Oscillation Control (2019 and 2024), PratiCoNeuro (Practical Course of Computational Neuroscience Modeling, 2018), and CNS*2021 (30th Annual Computational Neuroscience Meeting)
+- 15 invited talks at NIH, University of Chicago, ETH Zurich, Max Planck Institute for Dynamics and Self-Organization, UC San Diego, University of Aberdeen, Radboud University, University College Cork, and University of São Paulo
+- Supervised research guidance from leading groups: Prof. Jürgen Kurths (Potsdam/Humboldt), Prof. Murilo da Silva Baptista (Aberdeen), Prof. Iberê Luiz Caldas (USP), Prof. Antonio Marcos Batista (UEPG), among others across 5 countries
 
 ---
 
