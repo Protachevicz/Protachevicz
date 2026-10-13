@@ -111,6 +111,67 @@ Every project and publication below shipped a concrete, verifiable outcome, not 
 
 ---
 
+## 📝 First-Author Publications
+
+The 4 first-author papers already profiled above are a sample, not the full record. Here are the other papers led as first author, full list and citation counts on [Google Scholar](https://scholar.google.com.br/citations?user=uK3lQi4AAAAJ&hl=pt-BR):
+
+1. How synapses can enhance sensibility of a neural network. *Physica A: Statistical Mechanics and its Applications*, 492, 1045-1052, 2017.
+2. Synchronous behaviour in network model based on human cortico-cortical connections. *Physiological Measurement*, 39, 074006, 2018.
+3. Bistable firing pattern in a neural network model. *Frontiers in Computational Neuroscience*, 13, 1-8, 2019.
+4. Influence of delayed conductance on neuronal synchronization. *Frontiers in Physiology*, 11, 1-9, 2020.
+5. Noise induces continuous and noncontinuous transitions in neuronal interspike intervals range. *Pramana Journal of Physics*, 2020.
+6. Emergence of neuronal synchronization in coupled areas. *Frontiers in Computational Neuroscience*, 15, 1-12, 2021.
+7. Influence of the connectivity on the synchronization of two coupled neuronal networks. *Journal of Computational Neuroscience*, 49, 3-208, 2021.
+8. Large coefficient of variation of inter-spike intervals induced by noise current in the resonate-and-fire model neuron. *Cognitive Neurodynamics*, 1-10, 2022.
+
+---
+
+## 🤝 Co-Authored Publications
+
+Collaborative work across 30+ co-authors and research groups worldwide, beyond the papers already profiled above.
+
+<details>
+<summary><strong>Click to expand the full list (33 papers)</strong></summary>
+<br>
+
+1. Synaptic plasticity and spike synchronisation in neuronal networks. *Brazilian Journal of Physics*, 47, 678-688, 2017.
+2. Synchronised firing patterns in a random network of adaptive exponential integrate-and-fire neuron model. *Neural Networks*, 90, 1-7, 2017.
+3. Alterations in brain connectivity due to plasticity and synaptic delay. *European Physical Journal Special Topics*, 227, 673-682, 2018.
+4. Inference of topology and the nature of synapses, and the flow of information in neuronal networks. *Physical Review E*, 97, 022303, 2018.
+5. Recurrence quantification analysis for the identification of burst phase synchronisation. *Chaos*, 28, 085701, 2018.
+6. Synchronization of coupled neurons in a master-slave configuration. *Mathematics in Engineering, Science and Aerospace*, 10, 55-64, 2019.
+7. Spike-burst chimera states in an adaptive exponential integrate-and-fire neuronal network. *Chaos*, 29, 043106, 2019.
+8. Bistable firing patterns: one way to understand how epileptic seizures are triggered. *BMC Neuroscience*, 20, 56, 2019.
+9. Self-sustained activity of low firing rate in balanced networks. *Physica A*, 537, 122671, 2020.
+10. Short-term and spike-timing-dependent plasticity facilitate the formation of modular neural networks. *Communications in Nonlinear Science and Numerical Simulation*, 2020.
+11. Spiral wave chimera states in regular and fractal neuronal networks. *Journal of Physics: Complexity*, 2, 015006, 2020.
+12. Effects of drug resistance in the tumour-immune system with chemotherapy treatment. *Pramana Journal of Physics*, 2020.
+13. Influence of inhibitory synapses on the criticality of excitable neuronal networks. *Pramana Journal of Physics*, 2020.
+14. Effects of burst-timing-dependent plasticity on synchronous behaviour in neuronal network. *Neurocomputing*, 433, 126-135, 2021.
+15. Mathematical model of brain tumour growth with drug resistance. *Communications in Nonlinear Science and Numerical Simulation*, 2021.
+16. Control attenuation and temporary immunity in a cellular automata SEIR epidemic model. *Chaos, Solitons & Fractals*, 155, 111784, 2022.
+17. Dynamics of uncoupled and coupled neurons under an external pulsed current. *Chaos, Solitons & Fractals*, 155, 111734, 2022.
+18. Effect of two vaccine doses in the SEIR epidemic model using a stochastic cellular automaton. *Physica A*, 127258, 2022.
+19. On the dynamical behaviour of a glucose-insulin model. *Chaos, Solitons & Fractals*, 155, 1-8, 2022.
+20. The effect of time delay for synchronisation suppression in neuronal networks. *Chaos, Solitons & Fractals*, 2022.
+21. Analysing bursting synchronization in the structural connectivity matrix of a human brain under external pulsed currents. *Chaos*, 33, 033131, 2023.
+22. Chaotic dynamics in memristive circuits. *Revista Brasileira de Ensino de Física*, 45, 2023.
+23. Phase synchronization in a sparse network of randomly connected neurons under effect of Poissonian spike inputs. *Chaos*, 33, 123115, 2023.
+24. The roles of Potassium and Calcium currents in the bistable firing transition. *Brain Science*, 3(9), 1347, 2023.
+25. Fractional diffusion equation under general kernel and its stability. *Fractal and Fractional*, 7(11), 792, 2023.
+26. Adaptive exponential integrate-and-fire model with fractal extension. *Brain Science*, 34(2), 2024.
+27. Transient dynamics of fractional Fisher equation. *Fractal and Fractional*, 8(3), 143, 2024.
+28. Spiral wave dynamics in a neuronal network model. *Journal of Physics: Complexity*, 5, 025010, 2024.
+29. Control, bi-stability and preference for chaos in time-dependent vaccination campaign. *Chaos*, 34, 1-13, 2024.
+30. Collapse of multi-headed chimera states in neuronal networks. *Chaos: An Interdisciplinary Journal of Nonlinear Science*, 35(9), 2025.
+31. Complex Bifurcation Structures in a Hodgkin-Huxley Model of Thermally Sensitive Neurons under Periodic Perturbation. *Physical Review E*, 111(5), L052203, 2026.
+32. Astrocytic Signatures in Neuronal Activity: A Machine Learning-Based Identification Approach. *Cognitive Neurodynamics*, 19(1), 89, 2026.
+33. Seasonality-induced riddling in conceptual model for global changes. *Frontiers in Forest and Global Change*, 2026.
+
+</details>
+
+---
+
 ## 🛠️ Skills & Tools
 
 **Languages**
