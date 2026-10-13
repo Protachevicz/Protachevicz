@@ -2,7 +2,12 @@
 
 **AI Engineer · Data Scientist · Computational Neuroscientist · Physicist**
 
-📍 Brazil &nbsp;|&nbsp; 📧 protachevicz@gmail.com &nbsp;|&nbsp; 📞 +55 42 999409383
+🔎 **Open to:** AI/ML Engineer · GenAI/LLM Engineer · Data Scientist · Applied/Research Scientist · AI Research Lead · Marketing/Decision Analytics
+
+📍 Brazil (open to remote/hybrid/relocation) &nbsp;|&nbsp; 📧 protachevicz@gmail.com &nbsp;|&nbsp; 📞 +55 42 999409383
+
+<!-- Keywords for search: Artificial Intelligence, Machine Learning, Deep Learning, Generative AI, GenAI, Large Language Models, LLM, LLM Fine-Tuning, LoRA, QLoRA, PEFT, RAG, Multi-Agent Systems, AI Agents, Prompt Engineering, NLP, Data Science, Data Analyst, Data Analytics, Predictive Analytics, Marketing Analytics, Time Series Forecasting, Bayesian Inference, Statistics, A/B Testing, Computer Vision, Computational Neuroscience, Research Scientist, AI Engineer, Python, PyTorch, TensorFlow, Hugging Face, SQL, MLOps, Recommender Systems, Decision Science, Project Coordination, Technical Leadership -->
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pauloprotachevicz/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com.br/citations?user=uK3lQi4AAAAJ&hl=pt-BR)
