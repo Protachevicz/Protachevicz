@@ -3,9 +3,9 @@
 # Dr. Paulo Ricardo Protachevicz
 
 ### AI Engineer · Data Scientist · Computational Neuroscientist · Physicist
-### Founder, [ProtaAI](https://protaai.com.br)
+**Founder, [ProtaAI](https://protaai.com.br)**
 
-**Turning complex, high-stakes data into decisions, from predicting epileptic seizures to building production GenAI systems.**
+*Turning complex, high-stakes data into decisions, from predicting epileptic seizures to building production GenAI systems.*
 
 | 📄 50 | 🏛️ 8+ | 🌍 5 | 🎤 15 | 📈 60+ | ⏳ 15+ |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -15,13 +15,13 @@
 
 📍 Brazil (open to remote/hybrid/relocation) &nbsp;|&nbsp; 📧 protachevicz@gmail.com &nbsp;|&nbsp; 📞 +55 42 999409383
 
-[![ProtaAI](https://img.shields.io/badge/ProtaAI-000000?style=flat&logo=google-chrome&logoColor=white)](https://protaai.com.br)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pauloprotachevicz/)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com.br/citations?user=uK3lQi4AAAAJ&hl=pt-BR)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/protachevicz)
-[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=flat&logo=github&logoColor=white)](https://protachevicz.github.io/failure_equipament/failure.html)
+[![ProtaAI](https://img.shields.io/badge/ProtaAI-6C5CE7?style=flat-square&logo=sparkfun&logoColor=white)](https://protaai.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pauloprotachevicz/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com.br/citations?user=uK3lQi4AAAAJ&hl=pt-BR)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/protachevicz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=github&logoColor=white)](https://protachevicz.github.io/failure_equipament/failure.html)
 
 </div>
 
